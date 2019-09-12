@@ -1,0 +1,36 @@
+body{
+ background-image: url(cat.jpg);
+}
+
+form{
+background: pink;
+margin: 100px 10px 20px 400px;
+border: 2px solid white;
+padding: 10px;
+}
+button{
+    background : plum;
+    padding: 20px;
+    color: black;
+    border: 2px solid white;
+  
+}
+label{
+    background: paleturquoise;
+    padding: 10px;
+    border: 2px solid white;
+
+}
+button:hover{
+    background: rosybrown;
+}
+button:active{
+    background: aqua;
+}
+input{
+    padding: 5px;
+    color:rgba(248, 21, 146, 0.747);
+}
+form{
+    display: inline-block;
+}
